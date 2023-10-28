@@ -2,7 +2,7 @@
 
 ## Definisi Program
 program ini digunakan untuk menghitung usia seseorang berdasarkan tahun, bulan, dan tanggal kelahiran
-yang dimasukkan oleh pengguna. Program ini akan menampilkan usia dengan format tahun,
+yang dimasukkan oleh pengguna. Program ini akan menampilkan usia saat ini dengan format tahun,
 bulan, dan tanggal usia user.
 
 ## Cara Menjalankan
